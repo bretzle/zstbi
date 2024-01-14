@@ -1,0 +1,13 @@
+.{
+    .name = "zstbi",
+    .version = "0.0.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "stb_image.c",
+        "stb_image.h",
+        "stb_image_write.h",
+    },
+}
